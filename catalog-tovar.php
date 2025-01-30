@@ -14,14 +14,14 @@
                     <img src="/images/logo.png">
                 </div>
                 <div class="menu">
-                    <a href="/index.htm">Главная</a>
-                    <a href="/catalog.htm">Каталог</a>
-                    <a href="/contacts.htm">Контакты</a>
-                    <a href="/garantia.htm">Гарантия</a>
+                <a href="/index.php">Главная</a>
+                            <a href="/catalog-main.php">Каталог</a>
+                            <a href="/contacts.php">Контакты</a>
+                            <a href="/garantia.php">Гарантия</a>
                 </div>
                 <div class="icons">
                     <a href="#"><img src="/images/backet.jpg" id="basket"></a>
-                    <a href="profile.html"><img src="/images/profile.png" id="profile"></a>
+                    <a href="profile.php"><img src="/images/profile.png" id="profile"></a>
                 </div>
             </div>
         </div>

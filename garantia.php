@@ -14,14 +14,14 @@
                     <img src="/images/logo.png">
                 </div>
                 <div class="menu">
-                    <a href="/index.htm">Главная</a>
-                    <a href="/catalog-main.htm">Каталог</a>
-                    <a href="/contacts.htm">Контакты</a>
-                    <a href="/garantia.htm">Гарантия</a>
+                        <a href="/index.php">Главная</a>
+                        <a href="/catalog-main.php">Каталог</a>
+                        <a href="/contacts.php">Контакты</a>
+                        <a href="/garantia.php">Гарантия</a>
                 </div>
                 <div class="icons">
                     <a href="#"><img src="/images/backet.jpg" id="basket"></a>
-                    <a href="profile.html"><img src="/images/profile.png" id="profile"></a>
+                    <a href="profile.php"><img src="/images/profile.png" id="profile"></a>
                 </div>
             </div>
         </div>
@@ -90,9 +90,9 @@
             <div class="footer-section">
                 <h3>Быстрые ссылки</h3>
                 <ul>
-                    <li><a href="index.htm">Главная</a></li>
-                    <li><a href="garantia.htm"></a>Гарантия</li>
-                    <li><a href="contacts.htm"></a></li>
+                    <li><a href="index.php">Главная</a></li>
+                    <li><a href="garantia.php"></a>Гарантия</li>
+                    <li><a href="contacts.php"></a>Контакты</li>
                 </ul>
             </div>
     

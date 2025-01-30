@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/vape-catalog.css">
+    <link rel="stylesheet" href="css/zhidkosti-catalog.css">
     <title>Dany online</title>
 </head>
 <body>
@@ -14,14 +14,14 @@
                                 <img src="/images/logo.png">
                             </div>
                             <div class="menu">
-                                <a href="/index.htm">Главная</a>
-                                <a href="/catalog-main.htm">Каталог</a>
-                                <a href="/contacts.htm">Контакты</a>
-                                <a href="/garantia.htm">Гарантия</a>
+                            <a href="/index.php">Главная</a>
+                            <a href="/catalog-main.php">Каталог</a>
+                            <a href="/contacts.php">Контакты</a>
+                            <a href="/garantia.php">Гарантия</a>
                             </div>
                             <div class="icons">
                                 <a href="#"><img src="/images/backet.jpg" id="basket"></a>
-                                <a href="profile.html"><img src="/images/profile.png" id="profile"></a>
+                                <a href="profile.php"><img src="/images/profile.png" id="profile"></a>
                             </div>
                         </div>
                     </div>
@@ -29,43 +29,44 @@
 
         <div class="catalog-body"> 
             <div class="product">
-                <a href="odnorazki-catalog.htm">Одноразовые устройства</a>
+                <a href="odnorazki-catalog.php">Одноразовые устройства</a>
                 <hr>
-                <a href="vape-catalog.htm">Вейпы</a>
+                <a href="vape-catalog.php">Вейпы</a>
                 <hr>
-                <a href="zhidkosti-catalog.htm">Жидкости</a>
+                <a href="zhidkosti-catalog.php">Жидкости</a>
                 <hr>
-                <a href="kompletk-catalog.htm">Комплектующие</a>
+                <a href="kompletk-catalog.php">Комплектующие</a>
             </div>
             <div class="catalog-conteiner">
                 <div class="catalog">
-                    <div class="product-catalog">
-                        <img src="/images/Kartridzh-Geek-Vape-Q-2ml-.jpg" alt=""> <!--ссылка на товар:https://vapeluxe.ru/goods/kartridzh-geek-vape-q-2ml-0-6ohm-->
-                        <p>Картридж Geek Vape Q 2ml</p>
-                        <p>290р.</p>
-                        <a href=""><div class="price-catalog">
-                            <p>Подробнее>></p>
-                        </div></a>
-                    </div>
-                    <div class="product-catalog">
-                        <img src="/images/Kartridzh-VOOPOO-VMATE-Top-Fill.jpg" alt=""> <!--ссылка на товар:https://vapeluxe.ru/goods/kartridzh-voopoo-vmate-top-fill-0-4ohm-->
-                        <p>Картридж Voopoo Vmate</p>
-                        <p>390р.</p>
-                        <a href=""><div class="price-catalog">
-                            <p>Подробнее>></p>
-                        </div></a>
-                    </div>
+            <div class="product-catalog">
+                <img src="/images/Angry-Vape-Salt-Surikat-Eduard-30-ml.-20-mg.-strong.jpg" alt=""> <!--ссылка на товар:-->
+                <p>Angry Vapes 30ml 20mg</p>
+                <p>550р.</p>
+                <a href=""><div class="price-catalog">
+                    <p>Подробнее>></p>
+                </div></a>
+            </div>
+            <div class="product-catalog">
+                <img src="/images/MALASIAN-X-PODONKI-V2-BLUEBERRY-CURRANT-2.jpg" alt=""> <!--ссылка на товар:https://vapeluxe.ru/goods/malasian-x-podonki-v2-blueberry-currant-2-->
+                <p>Malasian x Podonki V2</p>
+                <p>650р.</p>
+                <a href=""><div class="price-catalog">
+                    <p>Подробнее>></p>
+                </div></a>
+            </div>
                 <div class="product-catalog">
-                    <img src="/images/17222165-Photoroom.png" alt=""> <!--ссылка на товар:https://vapeluxe.ru/goods/kartridzh-lost-vape-ursa-nano-v2-pod-0-8-ohm-->
-                    <p>lost vape ursa nano</p>
+                    <img src="/images/GENETIC-CODE-SALT-GRAPE-COLA-30-ml.-96673743.jpg" alt=""> <!--ссылка на товар:https://vapeluxe.ru/goods/genetic-code-salt-grape-cola-2s-->
+                    <p>Genetic Code Salt</p>
                     <p>450р.</p>
                     <a href=""><div class="price-catalog">
                         <p>Подробнее>></p>
                     </div></a>
                 </div>
         </div>
-            </div>
-        </div>
+    </div>
+</div>
+
         <footer class="footer">
             <div class="footer-content">
                 <!-- Company Info Section -->
@@ -104,5 +105,5 @@
                 <p>&copy; 2024 Название компании. Все права защищены.</p>
             </div>
         </footer>
-</body>
-</html>
+    </body>
+</html>            

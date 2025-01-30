@@ -14,27 +14,27 @@
                             <img src="/images/logo.png">
                         </div>
                         <div class="menu">
-                            <a href="/index.htm">Главная</a>
-                            <a href="/catalog-main.htm">Каталог</a>
-                            <a href="/contacts.htm">Контакты</a>
-                            <a href="/garantia.htm">Гарантия</a>
+                        <a href="/index.php">Главная</a>
+                            <a href="/catalog-main.php">Каталог</a>
+                            <a href="/contacts.php">Контакты</a>
+                            <a href="/garantia.php">Гарантия</a>
                         </div>
                         <div class="icons">
                             <a href="#"><img src="/images/backet.jpg" id="basket"></a>
-                            <a href="profile.html"><img src="/images/profile.png" id="profile"></a>
+                            <a href="profile.php"><img src="/images/profile.png" id="profile"></a>
                         </div>
                     </div>
                 </div>
     </header>
     <div class="catalog-body"> 
             <div class="product">
-                <a href="odnorazki-catalog.htm">Одноразовые устройства</a>
+            <a href="odnorazki-catalog.php">Одноразовые устройства</a>
                 <hr>
-                <a href="vape-catalog.htm">Вейпы</a>
+                <a href="vape-catalog.php">Вейпы</a>
                 <hr>
-                <a href="zhidkosti-catalog.htm">Жидкости</a>
+                <a href="zhidkosti-catalog.php">Жидкости</a>
                 <hr>
-                <a href="kompletk-catalog.htm">Комплектующие</a>
+                <a href="kompletk-catalog.php">Комплектующие</a>
             </div>
 
             <div class="catalog-conteiner">
