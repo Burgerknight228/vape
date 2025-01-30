@@ -49,7 +49,7 @@
             </div>
             <div class="product-catalog">
                 <img src="/images/Joystick-Cyber-Flex-25000-Yagodnyj-miks-so-ldom.jpg" alt=""> <!--ссылка на товар:https://vapeluxe.ru/goods/joystick-cyber-flex-25000-yagodnyj-miks-so-ldom-->
-                <p>joystick cyber flex 25000</p>
+                <p>joysticks cyber flex 25000</p>
                 <p>2 800р.</p>
                 <a href=""><div class="price-catalog">
                     <p>Подробнее>></p>
